@@ -1,0 +1,29 @@
+{
+  "name": "use-page-bloom",
+  "version": "1.0.0",
+  "description": "package for pagination",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abinth11/use-page-bloom-npm-package.git"
+  },
+  "keywords": [
+    "use-pagination"
+  ],
+  "author": "abin t h",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abinth11/use-page-bloom-npm-package/issues"
+  },
+  "homepage": "https://github.com/abinth11/use-page-bloom-npm-package#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.20"
+  }
+}
