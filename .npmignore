@@ -1,0 +1,68 @@
+# Files and directories to exclude from the package
+
+# Development and build files
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.DS_Store
+*.log
+*.lock
+*.sln
+*.suo
+*.user
+*.bak
+
+# Source control files
+.git/
+.gitignore
+.hg/
+.hgignore
+
+# Build artifacts and output directories
+
+
+# Configuration files
+*.config.js
+*.json
+*.xml
+*.yml
+*.yaml
+
+# Test files
+/__tests__/
+/*.test.js
+/*.spec.js
+
+# Documentation files
+/docs/
+/doc/
+/*.md
+/*.markdown
+
+# IDE and editor-specific files
+.idea/
+.vscode/
+*.sublime*
+*.swp
+*.swo
+*.tmproj
+*.esproj
+*.sublime-*
+
+# Various temporary files
+*.tmp
+*.temp
+
+# Editor configuration files
+.editorconfig
+
+# OS-specific files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# npm-specific files
+.npmignore
+.npmrc
+package-lock.json
