@@ -78,3 +78,4 @@ We welcome contributions! Feel free to open issues and pull requests on our [Git
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
+Package link to npm registry: [link](https://www.npmjs.com/package/use-page-bloom)
